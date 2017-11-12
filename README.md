@@ -2,10 +2,10 @@
 ## Project: Real Time Face Filter
 ### Team name: None
 #### Team members: 
-####               Lily Chen, huipingc
-####               Anita Li, weihanl1
-####               Hang Yin, hyin2
-####               Peizhi Yu, peizhiy
+#### Lily Chen, huipingc
+#### Anita Li, weihanl1
+#### Hang Yin, hyin2
+#### Peizhi Yu, peizhiy
 
 ### Description:
 Using python, we combined openCV, numpy and tkinter to make a real life face filter app on your pc.
