@@ -1,8 +1,9 @@
 # Hack112
 ## Project: Real Time Face Filter
 ### Team name: None
-#### Team members: Lily Chen, huipingc
-####              Anita Li, weihanl1
+#### Team members: 
+####               Lily Chen, huipingc
+####               Anita Li, weihanl1
 ####               Hang Yin, hyin2
 ####               Peizhi Yu, peizhiy
 
